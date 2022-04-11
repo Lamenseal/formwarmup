@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formwarmup", "formwarmup\formwarmup.csproj", "{F6AC4772-2C58-4E51-B533-EFB4DB95F03C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6AC4772-2C58-4E51-B533-EFB4DB95F03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AC4772-2C58-4E51-B533-EFB4DB95F03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AC4772-2C58-4E51-B533-EFB4DB95F03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AC4772-2C58-4E51-B533-EFB4DB95F03C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B27092F2-C138-4266-9697-B4A6832D5126}
+	EndGlobalSection
+EndGlobal
